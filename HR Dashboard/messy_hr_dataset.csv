@@ -1,0 +1,101 @@
+Employee ID,Employee Name,Department,Designation,Location,Gender,Employment Type,Join Date,Salary,Performance Rating,Attrition
+,Sneha,it,Analyst,Chennai,M,full time,2024-05-29,35000,1,
+2.0,Divya,FINANCE,Executive,Bangalore,M,Part-Time,2023-07-01,40000,4,YES
+3.0,,Finance,,Hyderabad,Female,full time,2020-12-10,35000,4,
+,Amit,IT,Manager,Chennai,female,,2022-03-17,35000,3,
+5.0,Amit,FINANCE,manager,Hyderabad,F,Part-Time,2023-01-20,40000,2,Yes
+6.0,,it,,Bangalore,F,Full-Time,11-05-2018,,3,
+7.0,,,Analyst,Mumbai,Female,Part-Time,2019-09-06,40000,4,NO
+8.0,Divya,it,manager,Chennai,Male,Contract,2020-10-02,35000,3,No
+9.0,Ravi,Finance,Intern,Chennai,Male,,2019-12-23,45000,3,No
+10.0,Sneha,it,Manager,Mumbai,M,Part-Time,2018-11-24,45000,5,NO
+11.0,Divya,Operations,,Mumbai,M,Part-Time,2024-10-02,,3,
+12.0,Divya,it,Intern,Bangalore,M,Full-Time,2022-05-08,40000,5,Yes
+13.0,Divya,HR,manager,Mumbai,M,Part-Time,2018-07-27,40000,,
+14.0,Ravi,,,Mumbai,M,Contract,2023-01-06,,2,No
+15.0,,IT,,Remote,F,full time,16-08-2021,25000,3,NO
+16.0,Amit,HR,manager,Remote,Male,Contract,06-10-2020,40000,2,YES
+17.0,,IT,Executive,Chennai,Male,,03-09-2024,35000,1,YES
+18.0,,FINANCE,,Remote,,full time,2023-03-15,,2,YES
+19.0,,,,Bangalore,Female,full time,2024-09-13,40000,,No
+20.0,,HR,,Bangalore,female,Contract,2018-10-15,40000,,No
+21.0,Ravi,it,Intern,Remote,female,full time,2021-03-03,45000,3,YES
+22.0,,Operations,manager,Mumbai,Male,,2023-05-31,40000,,No
+23.0,,it,Analyst,Remote,,Contract,05-10-2024,45000,3,YES
+24.0,Kiran,Finance,Executive,Remote,Female,Part-Time,30-10-2018,25000,5,Yes
+25.0,Amit,Operations,Manager,Remote,F,full time,2020-06-19,,1,NO
+26.0,Kiran,IT,manager,Remote,female,Full-Time,2020-04-04,,1,Yes
+27.0,Sneha,Finance,manager,,Female,Part-Time,03-05-2024,45000,2,Yes
+28.0,Ravi,HR,Intern,Mumbai,F,Contract,08-01-2024,40000,3,NO
+29.0,Sneha,it,Manager,Hyderabad,M,Contract,2024-11-02,,4,NO
+30.0,,IT,Analyst,Chennai,,Part-Time,2020-03-07,45000,5,NO
+31.0,Divya,Finance,Manager,Bangalore,F,Part-Time,24-07-2018,,3,No
+32.0,Amit,Operations,manager,Mumbai,Male,Contract,2021-05-24,40000,2,No
+33.0,Sneha,,Executive,Bangalore,Female,Part-Time,2022-07-20,40000,2,
+34.0,Sneha,,Analyst,Chennai,Male,full time,2022-05-25,45000,3,YES
+35.0,Amit,Finance,,Remote,F,full time,2023-12-26,,3,Yes
+36.0,Sneha,FINANCE,Manager,Bangalore,F,full time,10-10-2019,40000,5,No
+37.0,Divya,it,,Remote,F,Full-Time,22-03-2021,25000,1,NO
+38.0,Divya,FINANCE,Analyst,Hyderabad,female,full time,2021-10-18,35000,1,No
+39.0,,IT,Manager,Chennai,M,,2019-06-06,,4,
+40.0,Amit,HR,,Bangalore,,Part-Time,08-05-2018,40000,1,Yes
+41.0,Divya,it,Intern,Bangalore,F,Part-Time,13-11-2022,40000,5,NO
+42.0,Amit,Operations,,Mumbai,M,Contract,2023-02-08,35000,3,YES
+43.0,Amit,IT,Executive,Bangalore,F,Contract,23-12-2019,25000,5,Yes
+44.0,,Finance,,Bangalore,F,Contract,2021-03-24,,4,
+45.0,,HR,manager,Bangalore,,Part-Time,2019-08-21,35000,2,YES
+46.0,Amit,Finance,manager,,,Full-Time,2022-09-12,40000,,NO
+47.0,Divya,HR,Intern,Remote,Female,full time,2019-12-21,35000,3,
+48.0,Sneha,it,Intern,Chennai,M,Contract,2023-04-07,40000,5,YES
+49.0,,it,Intern,Chennai,,Contract,2024-04-24,45000,2,Yes
+,Ravi,it,manager,Bangalore,M,,2023-02-18,25000,3,Yes
+,Amit,Finance,Intern,Chennai,,full time,2019-06-07,25000,1,Yes
+52.0,Sneha,Finance,Manager,,Female,full time,2022-02-09,,2,No
+53.0,Divya,,manager,Remote,M,full time,2019-10-02,35000,1,
+54.0,Kiran,it,Manager,Bangalore,,full time,2019-09-27,35000,1,NO
+55.0,Ravi,Operations,,Chennai,Female,Contract,2020-01-03,45000,2,Yes
+56.0,Ravi,HR,Executive,,female,,2023-06-08,,1,NO
+57.0,,,Analyst,Mumbai,M,Full-Time,08-03-2021,35000,,Yes
+58.0,Amit,it,,,F,Contract,2022-04-01,25000,4,Yes
+59.0,,IT,Intern,Bangalore,M,full time,2022-07-25,40000,3,NO
+60.0,Divya,Operations,Manager,Chennai,M,full time,2021-05-08,40000,3,
+61.0,Amit,it,manager,Hyderabad,,full time,2023-01-10,35000,2,YES
+62.0,,,Analyst,Remote,F,Full-Time,06-10-2024,40000,,YES
+63.0,Amit,IT,Intern,Hyderabad,Male,,2019-11-06,25000,2,NO
+64.0,Amit,Operations,,,female,Contract,03-02-2023,45000,1,No
+65.0,,Operations,,Hyderabad,female,Contract,2020-09-06,45000,5,YES
+,Sneha,FINANCE,,,female,full time,2022-10-26,40000,3,Yes
+67.0,Kiran,,Executive,Hyderabad,Female,Full-Time,2019-10-09,,4,Yes
+68.0,Sneha,Finance,Intern,Bangalore,M,Part-Time,2019-12-03,35000,5,Yes
+69.0,Amit,it,,Hyderabad,M,Full-Time,2023-07-06,,3,Yes
+70.0,Divya,IT,Intern,Mumbai,,,30-09-2020,40000,3,No
+71.0,Divya,FINANCE,,Hyderabad,M,Part-Time,2022-11-17,35000,,
+72.0,Kiran,FINANCE,,Chennai,Female,Full-Time,2018-08-03,,1,
+73.0,,FINANCE,,Remote,female,Contract,2023-08-21,,3,No
+74.0,Sneha,Operations,manager,Bangalore,M,,2023-04-07,25000,2,Yes
+75.0,Ravi,IT,Executive,,,Contract,2019-03-23,,3,No
+76.0,Kiran,FINANCE,,Chennai,,Full-Time,2021-12-07,40000,3,Yes
+77.0,Kiran,HR,Manager,Remote,Female,full time,2022-07-11,40000,1,No
+78.0,,Finance,,Chennai,,Full-Time,2018-11-17,,1,Yes
+79.0,,it,Intern,Remote,F,Contract,2018-05-17,,3,YES
+80.0,Sneha,FINANCE,Executive,Hyderabad,Male,Contract,2021-04-11,45000,3,YES
+81.0,Ravi,FINANCE,Intern,Hyderabad,M,full time,2024-04-07,45000,1,No
+82.0,,HR,Intern,Hyderabad,M,Contract,24-03-2024,35000,3,No
+,Kiran,IT,manager,Remote,F,Part-Time,24-07-2018,45000,3,NO
+84.0,Ravi,HR,Manager,,female,Full-Time,2022-02-03,,2,NO
+85.0,Kiran,it,Executive,Remote,,Contract,27-01-2024,,4,YES
+86.0,Amit,Finance,Executive,Mumbai,M,Contract,2023-03-30,,4,Yes
+87.0,Kiran,it,,Mumbai,Female,Part-Time,2022-03-09,45000,3,YES
+88.0,Amit,HR,,Hyderabad,M,Part-Time,09-03-2019,35000,,Yes
+89.0,,IT,Executive,Remote,Female,,2023-08-20,25000,2,YES
+90.0,Sneha,IT,Intern,Bangalore,F,full time,2018-02-09,25000,,
+91.0,Kiran,it,Analyst,Chennai,M,Contract,2021-04-22,45000,1,NO
+92.0,,FINANCE,,Bangalore,M,full time,2019-11-16,40000,5,
+,,it,Manager,,female,full time,08-03-2018,,5,NO
+94.0,Kiran,IT,Executive,Remote,F,Full-Time,2022-04-09,25000,,No
+95.0,Ravi,IT,,Bangalore,M,full time,2018-02-23,40000,3,Yes
+96.0,Kiran,,Manager,,female,Full-Time,2020-05-23,,,
+97.0,,IT,Intern,Bangalore,female,Part-Time,2023-06-27,40000,3,Yes
+98.0,Ravi,HR,Analyst,Hyderabad,F,full time,07-05-2023,,3,No
+,Divya,FINANCE,Intern,Bangalore,Male,Contract,2019-06-10,25000,4,YES
+100.0,Kiran,it,manager,Hyderabad,M,Contract,2021-09-27,25000,5,
