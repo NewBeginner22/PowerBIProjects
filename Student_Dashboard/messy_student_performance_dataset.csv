@@ -1,0 +1,101 @@
+Student_ID,Student_Name,Department,Enrollment_Date,Attendance,Internal_Marks,External_Marks,Final_Grade,Result_Status,Scholarship
+STU-1001,divya ,Mechanical,01-06-2023,75,,sixty,A+,,YES 
+STU-1002,Meena,Computer Science,,,forty,55,b ,FAIL,Yes
+,Aarav,civil,,75,,60,,pass ,YES 
+STU-1004,divya ,Computer Science,,seventy,45,55,C,pass ,Yes
+STU-1005,Kiran,Mechanical,15-08-2023,seventy,45,,C,pass ,YES 
+STU-1006,Aarav,Computer Science,15-08-2023,75,,55,b ,FAIL,No
+STU-1007,divya ,civil,01-06-2023,seventy,forty,55,b ,FAIL,Yes
+STU-1008,Meena,ECE,01-07-2023,75,,,C,,YES 
+STU-1009,Kiran,ECE,01-06-2023,85%,,sixty,A+,FAIL,No
+STU-1010,,ECE,01-06-2023,75,38,55,A+,Pass,
+STU-1011,divya ,,15-08-2023,75,,60,B,FAIL,No
+,Aarav,Computer Science,01-06-2023,90%,45,55,b ,,Yes
+STU-1013,Kiran,civil,,85%,forty,55,A,FAIL,
+STU-1014,Aarav,Computer Science,01-07-2023,90%,50,55,A,Pass,Yes
+STU-1015,Meena,Mechanical,01-07-2023,,38,60,b ,,
+STU-1016,,ECE,01-07-2023,75,forty,60,A,Pass,Yes
+STU-1017,divya ,,01-07-2023,85%,45,sixty,A+,Pass,YES 
+STU-1018,Kiran,Mechanical,01-07-2023,,38,55,b ,pass ,No
+STU-1019,Kiran,ECE,01-06-2023,,50,60,A+,,
+STU-1020,Meena,computer science ,15-08-2023,75,,60,A,FAIL,YES 
+STU-1021,Meena,,,,,,b ,FAIL,YES 
+,divya ,,01-06-2023,seventy,38,60,B,Pass,YES 
+STU-1023,Aarav,computer science ,01-07-2023,85%,,sixty,A,,No
+STU-1024,Meena,computer science ,15-08-2023,,50,sixty,B,,No
+STU-1025,,,01-07-2023,,38,,C,,Yes
+STU-1026,,ECE,01-06-2023,,45,,A+,Pass,YES 
+STU-1027,divya ,Mechanical,01-07-2023,90%,38,55,b ,Pass,Yes
+,divya ,ECE,,75,forty,60,,FAIL,
+STU-1029,Meena,Computer Science,,85%,50,sixty,,pass ,Yes
+STU-1030,,civil,,85%,50,55,A+,pass ,Yes
+STU-1031,,Computer Science,,,45,,B,,Yes
+STU-1032,Meena,computer science ,,75,,sixty,A,FAIL,
+STU-1033,Aarav,,15-08-2023,75,,sixty,A+,pass ,YES 
+STU-1034,Aarav,Mechanical,,90%,50,60,C,,YES 
+STU-1035,Aarav,ECE,01-06-2023,85%,forty,,B,pass ,No
+STU-1036,Kiran,computer science ,15-08-2023,,38,55,C,Pass,YES 
+STU-1037,Meena,Computer Science,15-08-2023,seventy,38,55,,pass ,YES 
+STU-1038,Aarav,civil,01-07-2023,seventy,,,A,pass ,No
+STU-1039,divya ,civil,,85%,38,,C,FAIL,YES 
+STU-1040,Aarav,ECE,15-08-2023,75,50,,A+,Pass,YES 
+,Meena,,01-07-2023,75,,,,pass ,No
+STU-1042,Meena,Mechanical,15-08-2023,90%,50,55,C,FAIL,YES 
+STU-1043,Aarav,ECE,01-06-2023,75,38,sixty,b ,pass ,Yes
+STU-1044,Kiran,Computer Science,01-07-2023,75,,sixty,B,,No
+STU-1045,,computer science ,01-06-2023,75,45,60,A,FAIL,YES 
+STU-1046,Kiran,computer science ,,seventy,45,60,A+,Pass,No
+STU-1047,divya ,Computer Science,,75,50,sixty,C,pass ,No
+STU-1048,Kiran,Computer Science,15-08-2023,seventy,,sixty,b ,pass ,
+STU-1049,Kiran,computer science ,,75,38,60,b ,pass ,YES 
+STU-1050,Aarav,Computer Science,,,38,60,,Pass,Yes
+STU-1051,divya ,computer science ,01-06-2023,seventy,38,,,Pass,YES 
+STU-1052,Meena,ECE,01-07-2023,85%,50,sixty,,Pass,
+STU-1053,divya ,Computer Science,15-08-2023,90%,38,sixty,A,Pass,Yes
+STU-1054,Aarav,civil,01-07-2023,,38,60,b ,Pass,YES 
+STU-1055,Aarav,Computer Science,01-06-2023,,50,,b ,Pass,YES 
+STU-1056,divya ,civil,01-06-2023,75,45,sixty,,pass ,No
+STU-1057,divya ,computer science ,15-08-2023,85%,50,60,C,,No
+STU-1058,Meena,civil,01-07-2023,75,45,,A,FAIL,
+STU-1059,Aarav,ECE,01-07-2023,,38,55,A+,,YES 
+STU-1060,Kiran,civil,,75,,,,pass ,YES 
+STU-1061,Kiran,civil,01-07-2023,seventy,45,60,C,,No
+STU-1062,divya ,computer science ,01-06-2023,,,60,,FAIL,No
+STU-1063,Aarav,computer science ,01-06-2023,85%,forty,55,B,Pass,Yes
+STU-1064,divya ,Computer Science,,90%,,,b ,Pass,YES 
+STU-1065,Kiran,civil,01-07-2023,seventy,forty,55,A,pass ,
+STU-1066,divya ,civil,01-07-2023,85%,50,,A,pass ,YES 
+STU-1067,Meena,Computer Science,,90%,45,60,,,
+STU-1068,divya ,computer science ,01-06-2023,seventy,38,60,,pass ,No
+STU-1069,,,01-07-2023,,,55,A+,Pass,YES 
+STU-1070,Aarav,,15-08-2023,seventy,38,55,A,,No
+STU-1071,Meena,,01-07-2023,seventy,38,60,A+,FAIL,Yes
+STU-1072,Kiran,Mechanical,15-08-2023,,38,,A,pass ,Yes
+STU-1073,divya ,Computer Science,01-06-2023,85%,forty,sixty,,FAIL,No
+STU-1074,Meena,,15-08-2023,90%,,60,A+,Pass,No
+,Meena,computer science ,,,50,,A+,,Yes
+STU-1076,,,15-08-2023,85%,forty,60,,FAIL,YES 
+STU-1077,Kiran,computer science ,01-07-2023,,,,B,pass ,Yes
+STU-1078,Aarav,computer science ,,seventy,,60,A,,
+STU-1079,divya ,Mechanical,01-07-2023,seventy,forty,sixty,,pass ,No
+,,computer science ,,85%,38,55,C,Pass,YES 
+STU-1081,Meena,Mechanical,01-07-2023,,50,sixty,b ,Pass,
+STU-1082,Kiran,civil,,,38,60,A,pass ,No
+,,computer science ,01-07-2023,75,38,55,A,FAIL,YES 
+STU-1084,Meena,ECE,01-06-2023,seventy,,55,C,,
+STU-1085,,,15-08-2023,seventy,45,,A,,No
+STU-1086,divya ,computer science ,,90%,45,,C,Pass,No
+STU-1087,,computer science ,15-08-2023,90%,,sixty,B,Pass,Yes
+STU-1088,Aarav,computer science ,15-08-2023,seventy,,,C,pass ,No
+STU-1089,Aarav,computer science ,,90%,45,,A+,FAIL,Yes
+STU-1090,,civil,,90%,38,55,A+,pass ,No
+STU-1091,divya ,civil,15-08-2023,75,38,sixty,C,FAIL,Yes
+STU-1092,Aarav,Mechanical,,,45,55,C,,YES 
+STU-1093,,computer science ,15-08-2023,75,,sixty,B,pass ,No
+STU-1094,Aarav,civil,01-07-2023,90%,50,sixty,C,Pass,
+STU-1095,Meena,computer science ,,75,,60,,,
+STU-1096,divya ,,01-07-2023,85%,38,sixty,B,Pass,Yes
+STU-1097,Meena,,15-08-2023,85%,,,C,FAIL,
+STU-1098,Meena,Computer Science,01-06-2023,75,45,55,A,Pass,No
+STU-1099,Meena,,01-07-2023,90%,50,60,b ,FAIL,YES 
+STU-1100,,Computer Science,01-07-2023,85%,45,sixty,,,
